@@ -56,5 +56,3 @@ async def lempar_dadu(ctx):
 
 
 client.run(token)
-
-#MTI2NzQ3NTk4NTczODEwNDk2NQ.GEP-Gw.LIShIgNwscS2Ap_RvKcrRMSefw1v19fbP7yCpA
